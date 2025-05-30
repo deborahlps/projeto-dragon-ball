@@ -31,7 +31,7 @@ https://deborahlps.github.io/projeto-dragon-ball/
 ---
 
 ## 📸 Imagens do projeto  
-![Print do site](img/print-site.png)
+![Print do site](https://github.com/deborahlps/projeto-dragon-ball/blob/main/projeto-dragon-ball/img/print-site.png.png)
 
 
 
