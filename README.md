@@ -62,6 +62,7 @@ cd projeto-dragon-ball
 ## 👩‍💻 Desenvolvedora  
 Feito com 💙 por **Deborah Lopes**
 
-- 🌐 [GitHub](https://github.com/deborahlps)
+[![GitHub](https://img.shields.io/badge/GitHub-deborahlps-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deborahlps)
+
 
 
